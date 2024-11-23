@@ -9,10 +9,10 @@ This repository contains a set of SQL projects focused on **Data Analysis**. The
    - **Skills:** SQL joins, aggregations, subqueries, and filtering.
    - **Key Concepts:** Population analysis, demographics, grouping, sorting.
 
-2. **[Other Projects]**
-   - **Description:** Placeholder for additional projects.
-   - **Skills:** [Add relevant SQL skills used in the project].
-   - **Key Concepts:** [Add any relevant key concepts].
+2. **Shark Tank India Analysis**
+   - **Description:** Analyze data from Shark Tank India to understand investment patterns, preferred industries, and investor behavior.
+   - **Skills:** Window functions, Joins, Aggregations
+   - **Key Concepts:** Insights on funding amounts, top investors, and emerging industries.
 
 ## Folder Structure
 
@@ -24,9 +24,10 @@ SQL-Projects/
 │   ├── data_cleaning.sql
 │   └── README.md
 │
-└── Other Projects/
-    ├── project_1.sql
-    └── project_2.sql
+└── Shark Tank India Analysis/
+    ├── Shark Tank India Analysis.sql
+    └── Documentation.txt
+   └── Dataset
 ```
 
 ## Getting Started
