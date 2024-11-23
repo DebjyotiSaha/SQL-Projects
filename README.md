@@ -20,14 +20,21 @@ This repository contains a set of SQL projects focused on **Data Analysis**. The
 SQL-Projects/
 │
 ├── Census Data Analysis/
-│   ├── census_analysis.sql
-│   ├── data_cleaning.sql
-│   └── README.md
+│   ├── Solving Problem Statement with Data Analysis
+│   ├── Understanding the Data
+│   ├── Documentation
+│   └── Dataset
 │
 └── Shark Tank India Analysis/
-    ├── Shark Tank India Analysis.sql
-    └── Documentation.txt
-   └── Dataset
+│   ├── Shark Tank India Analysis.sql
+│   ├── Dataset
+│   └── Documentation.txt
+│
+└── Zomato Customer Analysis/
+│   ├── Zomato Customer Analysis.sql
+│   ├── Documentation.txt
+│   └── Report - Zomato Customer Analysis.doc
+│
 ```
 
 ## Getting Started
